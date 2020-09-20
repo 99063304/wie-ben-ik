@@ -1,0 +1,39 @@
+
+body{
+  background-color: #ADD8E6;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+p {
+
+
+font-size: 40px;
+text-align: right;
+}
+
+.vloot1 {
+  width: 300px;
+  float:left;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style:solid;
+
+
+}
+.vloot2 {
+  float:right;
+  float:center;
+  margin-left:10px;
+  margin-right:10px;
+  width: 310px;
+  border-style:solid;
+}
+.vloot3 {
+  float:left;
+  float:bottom;
+  width: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+border-style:solid;
+
+}
